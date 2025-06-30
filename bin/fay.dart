@@ -1,4 +1,5 @@
 main(){
 
-print("obje4ct");
+print("fdsjgfhg5gf");
+print("fdsjgfhg5gf");
 }
