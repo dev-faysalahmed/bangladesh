@@ -1,4 +1,4 @@
 main(){
 
-print("obje4ct");
+print("fdsf");
 }
