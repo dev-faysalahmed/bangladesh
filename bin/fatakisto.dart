@@ -4,4 +4,12 @@ main(){
 
   //fffffffffffffffffff
   print("FFFFFFFFFFFFFFF");
+  print("FFFFFFFFFFFFFFF");
+  print("FFFFFFFFFFFFFFF");
+  print("FFFFFFFFFFFFFFF");
+  print("FFFFFFFFFFFFFFF");
+  print("FFFFFFFFFFFFFFF");
+  print("FFFFFFFFFFFFFFF");
+  print("FFFFFFFFFFFFFFF");
+  print("FFFFFFFFFFFFFFF");
 }
